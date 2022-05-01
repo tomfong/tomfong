@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tom Fong</h1>
-<h3 align="center">Simple DEV make Simpler World</h3>
+<h3 align="center">Simple DEV build Simpler World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomfong&label=Profile%20views&color=0e75b6&style=flat" alt="tomfong" /> </p>
 
