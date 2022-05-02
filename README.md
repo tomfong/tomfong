@@ -23,8 +23,10 @@
 
 <h3 align="left">Support Me</h3>
 <p><a href="https://www.buymeacoffee.com/tomfong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tomfong" /></a></p>
+<br>
+<p><a href="https://payme.hsbc/tomfong"> <img align="left" src="PayMe-Logo.png" width="210" alt="tomfong" /></a></p>
 
-<br><br>
+<br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomfong&show_icons=true&locale=en&layout=compact" alt="tomfong" /></p>
 
