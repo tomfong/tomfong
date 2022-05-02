@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr)
 
-- 📫 How to reach me? Visit my [**Official Page**](https://tomfong.github.io/) or email to **tomfong.dev@gmail.com**
+- 📫 How to reach me? Visit my [**Official Site**](https://tomfong.github.io/) or email to **tomfong.dev@gmail.com**
 
 <h3 align="left">Download Apps from</h3>
 <p align="left">
