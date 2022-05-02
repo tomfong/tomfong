@@ -7,6 +7,12 @@
 
 - 📫 How to reach me? Visit my [**Official Page**](https://tomfong.github.io/) or email to **tomfong.dev@gmail.com**
 
+<h3 align="left">Download Apps from</h3>
+<p align="left">
+<a href="https://play.google.com/store/apps/dev?id=7271828593012906629" target="blank"><img src="badges/google-play-badge.png" height="50"></a>
+<a href="https://apps.apple.com/us/developer/lam-hang-fong/id1621121555" target="blank"><img src="badges/appstore-badge.png" height="50"></a>
+</p>
+
 <h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tom-lh-fong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-lh-fong" height="30" width="40" /></a>
