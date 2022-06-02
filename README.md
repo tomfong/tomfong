@@ -23,7 +23,7 @@
 
 <h3 align="left">Support Me</h3>
 <div align="left">
-<a href="https://linktr.ee/tomfonghk"> <img src="Paypal.png" width="120" alt="tomfong"/></a>
+<a href="https://linktr.ee/tomfonghk"> <img src="Paypal.png" width="210" alt="tomfong"/></a>
 <span>&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.buymeacoffee.com/tomfong"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tomfong" /></p>
 </div>
