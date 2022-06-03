@@ -9,8 +9,8 @@
 
 <h3 align="left">Download Apps from</h3>
 <p align="left">
-<a href="https://apps.apple.com/us/developer/lam-hang-fong/id1621121555" target="blank"><img src="appstore-badge.png" height="50"></a>
-<a href="https://play.google.com/store/apps/dev?id=7271828593012906629" target="blank"><img src="google-play-badge.png" height="50"></a>
+<a href="https://apps.apple.com/us/developer/lam-hang-fong/id1621121555" target="blank"><img src="appstore-badge.png" width="195"></a>
+<a href="https://play.google.com/store/apps/dev?id=7271828593012906629" target="blank"><img src="google-play-badge.png" width="220"></a>
 </p>
 
 <h3 align="left">Connect with Me</h3>
