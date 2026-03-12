@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr) app, and [**Hong Kong Bus ETA Skill**](https://github.com/tomfong/hk-bus-eta-skill)
 
-- 📫 How to reach me? Visit my [**Official Site**](https://tomfong.github.io/) or email to **tomfong.dev@gmail.com**
+- 📫 How to reach me? Email to **tomfong.dev@gmail.com**
 
 <h3 align="left">Download Apps from</h3>
 
