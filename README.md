@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomfong&label=Profile%20views&color=0e75b6&style=flat" alt="tomfong" /> </p>
 
-- 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr)
+- 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr) and [**Hong Kong Bus ETA Skill**]([https://github.com/tomfong/simple-qr](https://github.com/tomfong/hk-bus-eta-skill))
 
 - 📫 How to reach me? Visit my [**Official Site**](https://tomfong.github.io/) or email to **tomfong.dev@gmail.com**
 
