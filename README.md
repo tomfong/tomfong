@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomfong&label=Profile%20views&color=0e75b6&style=flat" alt="tomfong" /> </p>
 
-- 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr) app, [**Hong Kong Bus ETA Agent Skill**](https://github.com/tomfong/hk-bus-eta-skill), and [**Hong Kong MTR Next-Train ETA Agent Skill**](https://github.com/tomfong/hk-mtr-next-train-skill).
+- 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr) app and various OpenClaw agent skills.
 
 - 📫 How to reach me? Email to **tomfong.dev@gmail.com**
 
