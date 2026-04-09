@@ -24,9 +24,7 @@
 
 <h3 align="left">Statistics</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomfong&show_icons=true&locale=en&layout=compact" alt="tomfong" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=tomfong&show_icons=true&locale=en" alt="tomfong" /></p>
+[![Tom FONG's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tomfong)]()
 
 ---
 
