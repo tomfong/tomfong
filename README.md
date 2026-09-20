@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomfong&label=Profile%20views&color=0e75b6&style=flat" alt="tomfong" /> </p>
 
-- 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr) app and various OpenClaw agent skills.
+- 🔭 I’m currently working on [**Simple QR**](https://github.com/tomfong/simple-qr), [**Simple Mirror**](https://github.com/tomfong/simple_mirror), and various OpenClaw agent skills.
 
 - 📫 How to reach me? Email to **tomfong.dev@gmail.com**
 
